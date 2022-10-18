@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Homework">
+
+    <test name="Rozetka">
+        <classes>
+            <class name = "RozetkaTest" />
+        </classes>
+    </test>
+
+</suite>

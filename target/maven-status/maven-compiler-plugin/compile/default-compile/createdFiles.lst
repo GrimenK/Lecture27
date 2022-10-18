@@ -1,0 +1,12 @@
+webdriver/ObjectManager.class
+pageObject/ItemPage.class
+pageObject/FilterTab.class
+pageObject/RozetkaHeaderPannel.class
+Params.class
+pageObject/CatalogPage.class
+Main.class
+pageObject/CheckoutPage.class
+pageObject/AbstractPage.class
+pageObject/CartPopup.class
+webdriver/Utils.class
+webdriver/Driver.class

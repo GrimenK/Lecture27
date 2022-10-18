@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration name="XMLConfigTest">
+
+    <Properties>
+        <Property name="logger" value="logs_folder"/>
+    </Properties>
+
+    <Appenders>
+
+        <File name="FileAppender" fileName="${logger}/logfile.log">
+            <PatternLayout pattern="{%-5level} %m %n"/>
+        </File>
+
+    </Appenders>
+
+    <Loggers>
+        <Root level="all">
+            <AppenderRef ref="FileAppender" level="all"/>
+        </Root>
+    </Loggers>
+
+
+</Configuration>
