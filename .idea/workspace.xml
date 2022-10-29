@@ -1,17 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d66a02f-dc8a-40fc-b73b-8ba2ea293086" name="Default Changelist" comment="" />
+    <list default="true" id="0d66a02f-dc8a-40fc-b73b-8ba2ea293086" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/CatalogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/CatalogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/ItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/ItemPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webdriver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webdriver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xmls/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/xmls/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessObject/CatalogPageBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessObject/CatalogPageBO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessObject/ItemPageBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessObject/ItemPageBO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessObject/RozetkaMainBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessObject/RozetkaMainBO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/element/AbstractElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/element/AbstractElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/element/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/element/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/element/ElementDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/element/ElementDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/element/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/element/Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/element/TextLable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/element/TextLable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/AbstractPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/AbstractPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/CartPopup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/CartPopup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/CatalogPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/CatalogPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/CheckoutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/CheckoutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/FilterTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/FilterTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/ItemPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/ItemPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObject/RozetkaHeaderPannel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObject/RozetkaHeaderPannel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/BusinessObjectManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/BusinessObjectManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/PageObjectManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/PageObjectManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webdriver/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/webdriver/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire2348475048248460124tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_0664974281091452432tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter7059922701666764155.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RozetkaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RozetkaTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2GJdXaROWO306Mpb479qW0V5Eay" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="Lecture27" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/xmls/test.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -27,9 +110,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1666110667942">
+    <state x="1744" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667063596008">
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
-    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666110667942" />
+    <state x="1744" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667063596008" />
+    <state x="1967" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666535094974">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1967" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666535094974" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1667072773521">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667072773521" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1440.815/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667071751048" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1667072773517">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667072773517" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1440.815/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667071751042" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1667072773511">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667072773511" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1440.815/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667071751041" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1667072773519">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667072773519" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1440.815/1440.0.1680.1050@1440.0.1680.1050" timestamp="1667071751046" />
+    <state x="1768" y="103" key="SettingsEditor" timestamp="1666720605895">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1768" y="103" key="SettingsEditor/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666534927812" />
+    <state x="1768" y="103" key="SettingsEditor/0.25.1440.875/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666720605895" />
+    <state x="1959" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1667062752855">
+      <screen x="1440" y="25" width="1680" height="1025" />
+    </state>
+    <state x="1959" y="371" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666715157023" />
+    <state x="1959" y="354" key="com.intellij.ide.util.TipDialog/0.25.1440.815/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666532695127" />
+    <state x="1959" y="387" key="com.intellij.ide.util.TipDialog/0.25.1440.815/1440.25.1680.1025@1440.25.1680.1025" timestamp="1667062752854" />
+    <state x="1946" y="282" width="667" height="486" key="find.popup" timestamp="1666534488859">
+      <screen x="1440" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1946" y="282" width="667" height="486" key="find.popup/0.25.1440.875/1440.0.1680.1050@1440.0.1680.1050" timestamp="1666534488859" />
   </component>
 </project>

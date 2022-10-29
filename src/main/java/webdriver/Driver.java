@@ -10,19 +10,12 @@ public class Driver {
     public static WebDriver webDriver;
 
     public static void createDriver(){
-        webDriver = null;
         System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/src/drivers/chromedriver");
-        ChromeOptions params = new ChromeOptions();
-        params.addArguments("window-size=1024,768");
-        params.addArguments("--start-fullscreen");
-        params.addArguments("enable-automation");
-        params.addArguments("--disable-extensions");
 
         webDriver = new ChromeDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(8, TimeUnit.SECONDS);
     }
-
 
     public static WebDriver getWebDriver() {
         return webDriver;

@@ -2,6 +2,7 @@ package pageObject;
 
 import java.util.List;
 
+import element.TextLable;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -17,6 +18,8 @@ public class CatalogPage extends AbstractPage {
     @FindBy(xpath = "//a[contains(@class, 'goods-tile__picture')]")
     public List<WebElement> catalogItem;
 
+    @FindBy(xpath = "//h1")
+    public TextLable titlePage;
 
     public ItemPage chooseItem(int index){
         System.out.println("Item selected from catalog, item index: " + index);

@@ -18,19 +18,19 @@ public class BaseTest {
         LOG.info("setup");
         businessObjectManager = BusinessObjectManager.getInstance();
         url = Params.URL;
-        Driver.createDriver();
+//        Driver.createDriver();
         get(url);
     }
 
     @AfterClass
     public void TearDown(){
-        Driver.getWebDriver().close();
-        Driver.getWebDriver().quit();
+//        Driver.getWebDriver().close();
+//        Driver.getWebDriver().quit();
     }
 
     public void get(String url){
         LOG.info("Go to url: " + url);
-        Driver.getWebDriver().get(url);
+//        Driver.getWebDriver().get(url);
     }
 
 }

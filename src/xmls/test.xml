@@ -5,7 +5,7 @@
 
     <test name="Rozetka">
         <classes>
-            <class name = "RozetkaTest" />
+            <class name = "runner.CucumberRunner" />
         </classes>
     </test>
 
